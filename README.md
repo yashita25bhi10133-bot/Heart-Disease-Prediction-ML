@@ -12,3 +12,9 @@ This project applies Machine Learning to clinical health data to predict the pre
 ## Key Findings
 - The model achieved an accuracy of 87%.
 - Key indicators of heart disease include Chest Pain type (cp) and Thalassemia (thal).
+## Technologies Used
+- **Language:** Python 3.x
+- **Libraries:** - Pandas (Data Manipulation)
+    - Scikit-Learn (Machine Learning)
+    - Matplotlib/Seaborn (Data Visualization)
+- **Environment:** Jupyter Notebook / Google Colab
